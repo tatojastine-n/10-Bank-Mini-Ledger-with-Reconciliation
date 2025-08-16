@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Bank Mini-Ledger with Reconciliation\bin\Debug\Bank Mini-Ledger with Reconciliation.exe.config
+C:\Users\HP\source\repos\Bank Mini-Ledger with Reconciliation\bin\Debug\Bank Mini-Ledger with Reconciliation.exe
+C:\Users\HP\source\repos\Bank Mini-Ledger with Reconciliation\bin\Debug\Bank Mini-Ledger with Reconciliation.pdb
+C:\Users\HP\source\repos\Bank Mini-Ledger with Reconciliation\obj\Debug\Bank Mini-Ledger with Reconciliation.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Bank Mini-Ledger with Reconciliation\obj\Debug\Bank Mini-Ledger with Reconciliation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Bank Mini-Ledger with Reconciliation\obj\Debug\Bank Mini-Ledger with Reconciliation.exe
+C:\Users\HP\source\repos\Bank Mini-Ledger with Reconciliation\obj\Debug\Bank Mini-Ledger with Reconciliation.pdb
